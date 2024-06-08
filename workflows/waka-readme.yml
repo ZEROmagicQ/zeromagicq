@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -41,3 +42,4 @@ jobs:
           AUTHOR_NAME: YOUR_NAME # optional
           AUTHOR_EMAIL: YOUR@EMAIL.com # optional
           # you can populate email-id with secrets instead
+<!--END_SECTION:waka-->
