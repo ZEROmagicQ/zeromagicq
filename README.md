@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
-Total Time: 22 mins
+Total Time: 10 mins
 
-C#       15 mins         >>>>>>>>>>>>>>>>>--------   67.95 %
-Python   7 mins          >>>>>>>>-----------------   31.52 %
-INI      0 secs          -------------------------   00.53 %
+C#   9 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
