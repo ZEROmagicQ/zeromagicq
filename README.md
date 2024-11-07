@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+C#       10 mins         >>>>>>>>>>>>>>>>>>>>>----   82.55 %
+Binary   2 mins          >>>>---------------------   17.45 %
 ```
 
 <!--END_SECTION:waka-->
